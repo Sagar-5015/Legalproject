@@ -1,0 +1,4 @@
+#create staging hive table
+#create managed hive table
+#apply dynamic partition
+#store in data warehouse
